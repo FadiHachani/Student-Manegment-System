@@ -1,0 +1,17 @@
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.csproj.AssemblyReference.cache
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.Form1.resources
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.csproj.GenerateResource.cache
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.AssemblyInfoInputs.cache
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.AssemblyInfo.cs
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.csproj.CoreCompileInputs.cache
+C:\Users\fadi\source\repos\sahar\sahar\bin\Debug\net6.0-windows\sahar.exe
+C:\Users\fadi\source\repos\sahar\sahar\bin\Debug\net6.0-windows\sahar.deps.json
+C:\Users\fadi\source\repos\sahar\sahar\bin\Debug\net6.0-windows\sahar.runtimeconfig.json
+C:\Users\fadi\source\repos\sahar\sahar\bin\Debug\net6.0-windows\sahar.dll
+C:\Users\fadi\source\repos\sahar\sahar\bin\Debug\net6.0-windows\sahar.pdb
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.dll
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\refint\sahar.dll
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.pdb
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\sahar.genruntimeconfig.cache
+C:\Users\fadi\source\repos\sahar\sahar\obj\Debug\net6.0-windows\ref\sahar.dll
