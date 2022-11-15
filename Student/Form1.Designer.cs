@@ -1,4 +1,4 @@
-﻿namespace sahar
+﻿namespace Student
 {
     partial class Form1
     {

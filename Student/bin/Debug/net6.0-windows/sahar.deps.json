@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "sahar/1.0.0": {
+      "Student/1.0.0": {
         "runtime": {
-          "sahar.dll": {}
+          "Student.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "sahar/1.0.0": {
+    "Student/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

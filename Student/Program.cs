@@ -1,4 +1,4 @@
-namespace sahar
+namespace Student
 {
     internal static class Program
     {
